@@ -71,5 +71,5 @@ int main(){
     print_stack();
     pop();   
 
-    return 0;
+    return 0; 
 }
