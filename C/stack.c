@@ -50,10 +50,12 @@ int pop(){
 }
 
 int print_stack(){
+
     for(int i = 0; i<=top; i++){
         printf("%d\t", stack[i]);
     }
     printf("\n");
+    
 }
 
 int main(){
